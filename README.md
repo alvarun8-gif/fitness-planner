@@ -18,7 +18,7 @@ Developed by Varun AL
 https://alvarun8-gif.github.io/fitness-planner/
 
 ☁ Azure Hosted Version:
-http://YOUR_PUBLIC_IP
+http://172.188.65.215/
 
 🛠 Technologies Used
 
